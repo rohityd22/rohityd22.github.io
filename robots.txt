@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rohityd22.github.io/al-folio/sitemap.xml
